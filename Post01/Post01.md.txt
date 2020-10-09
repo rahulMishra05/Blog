@@ -1,0 +1,75 @@
+# Learn Front-end development: A Practical Guide to Become Front-end developer
+
+**Front-end web development is the basic and must have skill that every coder/programmer should have in their bucket, but the question is how to become or learn front-end web development. In order to know the right and most efficient path/way go through entire article.**
+
+1. **HTML** :- The base of the website is html, you can also say it as the skeleton of the web page. I will not bore you by telling geeky thing about it but you should definitely know one thing that HTML stands for (Hyper Text Markup Language), wait a minute “Markup Language” what does that mean, it means that HTML is not a programming language rather a markup language.
+Okay, enough of talking let’s see how can you learn HTML.
+
+![post1_img2.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602175295333/HQBF-eVes.png)
+
+First we will talk about free video tutorials
+   - [HTML Crash Course for absolute beginners]( https://www.youtube.com/watch?v=UB1O30fR-EE)
+   - [HTML Full Course](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+   - [HTML Crash Course for absolute beginners 2020](https://www.youtube.com/watch?v=FNGoExJlLQY)
+    
+Now let’s see some of the most awesome documentations.
+_**P.S :- Documentation is very must if you want to be a good programmer.**_
+-  [W3School](https://www.w3schools.com/html/default.asp)
+- [MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [DevDoc.io](https://devdocs.io/html/)
+
+
+2. **CSS** :-Yes, we can make the base of the website using HTML, but how to make it attractive, no one likes a webpage that just contains HTML tags, and then CSS comes into play.
+By using CSS you can style the website all the colors, effects are done with the help of CSS, you have to learn CSS in order to make a good and attractive webpage of the website.
+The most amazing thing is that both HTML and CSS are very easy to learn, you can master these skills in very less time, isn’t it great.
+
+![post1_img3.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602175308830/XBAGYVXYG.png)
+
+First we will see some video tutorials to learn CSS
+- [CSS Crash Course for absolute beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)
+- [Learn CSS in 20 Minutes](https://www.youtube.com/watch?v=1PnVor36_40)
+- [CSS Tutorial - Zero to Hero](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
+
+There are some very good documentation you can follow such as
+- [W3School.com](https://www.w3schools.com/css/default.asp)
+- [Devdocs.io](https://devdocs.io/css/)
+- [MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+_Now when you had learned HTML and CSS you can make a static good looking website which can be your portfolio, landing page etc._
+
+_But still you cannot sell yourself as Front-end web developer in the market, you need to learn one more thing which is “JavaScript”, now things will become more interesting. So, let’s see how you can learn JavacScript in order to become Front-end web Developer._
+
+3. **JavaScript** :- JavaScript is a proper programming language, so keep in mind you are learning a programming language. By learning JavaScript you will be able to do magic on the webpage. What does that mean ?
+You can understand this like that, till now there is no functionality in your webpage and JavaScript is the one who can help you to do that, and remember one thing by learning JavaScript you can also enter the back-end development of the website,  we will talk about it some other time, let us quickly discuss the ways to learn JavaScript.
+
+![post1_img4.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602175320894/8UHCF-rY9.png)
+
+First we will se some tutorials to learn _JavaScript_
+- [JavaScript Tutorial for beginners](https://www.youtube.com/watch?v=W6NZfCO5SIk&t=266s)
+- [JavaScript Tutorial for beginners – Full Course 8 Hours](https://www.youtube.com/watch?v=Qqx_wzMmFeA&t=237s)
+- [Learn JavaScript – Full Course for beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+- [JavaScript Crash Course for Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c)
+- [JavaScript Course](https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD)
+
+Documentation to look in order to learn _JavaScript_
+- [MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Devdocs.io](https://devdocs.io/javascript/)
+- [W3School.com](https://www.w3schools.com/js/default.asp)
+
+Till now in this article I had shared many resources with you from where you can learn HTML, CSS and JavaScript. These all are my personal opinions that I had followed to learn these technologies. All the resources including videos and documentations are completely free, because as developers we love free things 😅
+
+Hope this helped you and you become an awesome Front-end web developer in the future. Best of Luck 😃
+
+If you have any doubt, question, query or want to share something with me, please feel free to contact me with any of the mentioned medium you like.
+
+### Contact Me
+
+[Twitter](https://twitter.com/r_mishra10)
+[LinkedIn](https://www.linkedin.com/in/rahul-mishra-66210b185)
+[Telegram](https://t.me/rahul_mishra10)
+
+#### Other links
+
+[GitHub](https://github.com/rahulMishra05)
+[HackerRank](https://www.hackerrank.com/rahulmishra10201)
+[Instagram](https://www.instagram.com/rahul_mishra10/?hl=en)
