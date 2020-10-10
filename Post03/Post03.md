@@ -51,7 +51,7 @@ This was an basic introduction to Java now let's see some concepts of Java.
     - Applet are restricted from using libraries from other languages, such as C, C++, etc.
 
 If you want to see some code related on these topics then you can go the given link\
-[Link of the code file.](####)
+[Link of the code file.](https://github.com/rahulMishra05/Blog/tree/main/Post03/Demonstration01)
 
 _Just follow the readme file, to know more_
 
