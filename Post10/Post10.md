@@ -2,6 +2,8 @@
 
 **This is a multipart blog article series, and in this series I am going to explain you the concepts of operating system. This article series is divided into multiple modules and this is the first module which consists of 12 articles.**\
 _In this article you will get to know about **Multiprogrammed** and **Multitasking** operating system._ 
+
+![multi-programming.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1604590376148/FTCpPwbbq.png)
 1. **Multiprogrammed Operating System:**
     - The concept of multiprogrammed operating system came earlier than _multitasking operating system._
     - This operating system try's to take as many processes into the **RAM**.
@@ -9,11 +11,13 @@ _In this article you will get to know about **Multiprogrammed** and **Multitaski
     - The functionality of multiprogrammed operating system can be understand as, support that there is a process which wants to perform some input/output operation, in that case the process will be sent for I/O operation and in the mean time the CPU will start executing another process, and hence by this way we prevent CPU from being ideal.
     - _**Note:** If a process does not want to perform any kind of I/O operation then CPU will first execute it completely, and this is why multiprogrammed CPU is termed as non pre-emptive._
     - The main focus of multiprogrammed operating system is to prevent CPU from being ideal.
+
+![man-1633667_1280.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1604590393616/Ly2XSjPnX.jpeg)
 2. **Multitasking Operating System:** It is also known as time sharing operating system.
     - The concept of _multitasking operating system_ is simple that, it will execute a process for a particular time and if in that time the process get finished than well & good otherwise it will start executing other process.
     - By this approach every process get a chance to execute and the process do not have to wait for to start their execution.
     - This type of operating system is termed as **pre-emptive** _(CPU is not ideal)._ The idealness gets decreased.
-    - Obne more thing that makes multitasking operating system more suitable is that, along with the less idealness of the CPU the CPU becomes more responsive.
+    - One more thing that makes multitasking operating system more suitable is that, along with the less idealness of the CPU the CPU becomes more responsive.
     - The main advantage of multitasking operating system over multiprogrammed operating system is that multitasking operating system is more responsive then multiprogrammed operating system.
     - The main focus of multitasking operating system is to make CPU more responsive.
 
