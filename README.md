@@ -15,10 +15,10 @@ This repository is dedicated for the details of blog post done on the above bloo
 
 ## 📋 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [User Level v/s Kernel Level Threads | Operating System - M01 P12](https://dev.to/rahulmishra05/user-level-v-s-kernel-level-threads-operating-system-m01-p12-4eb7)
 - [Process v/s Threads | Operating System - M01 P11](https://dev.to/rahulmishra05/process-v-s-threads-operating-system-m01-p11-35od)
 - [User Mode and Kernel Mode](https://dev.to/rahulmishra05/user-mode-and-kernel-mode-2bm7)
 - [Question on Fork System Call | Operating System - M01 P09](https://dev.to/rahulmishra05/question-on-fork-system-call-operating-system-m01-p09-4fkc)
 - [Fork System Call | Operating System - M01 P08](https://dev.to/rahulmishra05/fork-system-call-operating-system-m01-p08-27hp)
-- [System Call in Operating System | Operating System - M01 P07](https://dev.to/rahulmishra05/system-call-in-operating-system-operating-system-m01-p07-1o88)
 <!-- BLOG-POST-LIST:END -->
 
