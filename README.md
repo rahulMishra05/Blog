@@ -15,10 +15,10 @@ This repository is dedicated for the details of blog post done on the above bloo
 
 ## 📋 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Shortest Remaining Time First | Operating System - M02 P05](https://dev.to/rahulmishra05/shortest-remaining-time-first-operating-system-m02-p05-55fg)
 - [Shortest Job First (SJF) | operating System - M02 P04](https://dev.to/rahulmishra05/shortest-job-first-sjf-operating-system-m02-p04-agg)
 - [First Come First Serve (FCFS) | Operating System - M02 P03](https://dev.to/rahulmishra05/first-come-first-serve-fcfs-operating-system-m02-p03-46ak)
 - [CPU Scheduling | Operating System - M02 P02](https://dev.to/rahulmishra05/cpu-scheduling-operating-system-m02-p02-2e4d)
 - [Process Scheduling Algorithms | Operating System - M02 P01](https://dev.to/rahulmishra05/process-scheduling-algorithms-operating-system-m02-p01-502l)
-- [User Level v/s Kernel Level Threads | Operating System - M01 P12](https://dev.to/rahulmishra05/user-level-v-s-kernel-level-threads-operating-system-m01-p12-4eb7)
 <!-- BLOG-POST-LIST:END -->
 
