@@ -15,10 +15,10 @@ This repository is dedicated for the details of blog post done on the above bloo
 
 ## 📋 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Pre-emptive Priority Scheduling Algorithm | Operating System - M02 P08](https://dev.to/rahulmishra05/pre-emptive-priority-scheduling-algorithm-operating-system-m02-p08-c6f)
 - [Round Robin Scheduling | Operating System - M02 P07](https://dev.to/rahulmishra05/round-robin-scheduling-operating-system-m02-p07-3h67)
 - [Question on Shortest Job First | Operating System - M02 P06](https://dev.to/rahulmishra05/question-on-shortest-job-first-operating-system-m02-p06-c2e)
 - [Shortest Remaining Time First | Operating System - M02 P05](https://dev.to/rahulmishra05/shortest-remaining-time-first-operating-system-m02-p05-55fg)
 - [Shortest Job First (SJF) | operating System - M02 P04](https://dev.to/rahulmishra05/shortest-job-first-sjf-operating-system-m02-p04-agg)
-- [First Come First Serve (FCFS) | Operating System - M02 P03](https://dev.to/rahulmishra05/first-come-first-serve-fcfs-operating-system-m02-p03-46ak)
 <!-- BLOG-POST-LIST:END -->
 
