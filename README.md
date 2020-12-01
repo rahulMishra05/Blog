@@ -15,10 +15,10 @@ This repository is dedicated for the details of blog post done on the above bloo
 
 ## 📋 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Producer Consumer Problem | Operating System - M03 P02](https://dev.to/rahulmishra05/producer-consumer-problem-operating-system-m03-p02-f52)
 - [Introduction | Shell Scripting](https://dev.to/rahulmishra05/introduction-shell-scripting-p03)
 - [Process Synchronization | Operating System - M03 P01](https://dev.to/rahulmishra05/process-synchronization-operating-system-m03-p01-1oci)
 - [Multilevel Feedback Queue Scheduling | Operating System - M02 P11](https://dev.to/rahulmishra05/multilevel-feedback-queue-scheduling-operating-system-m02-p11-mc)
 - [Multi Level Queue Scheduling | Operating System - M02 P10](https://dev.to/rahulmishra05/multi-level-queue-scheduling-operating-system-m02-p10-eio)
-- [Mix Burst Time (CPU & I/O Both) | Operating System - M02 P09](https://dev.to/rahulmishra05/mix-burst-time-cpu-i-o-both-operating-system-m02-p09-2e5o)
 <!-- BLOG-POST-LIST:END -->
 
