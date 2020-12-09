@@ -15,10 +15,10 @@ This repository is dedicated for the details of blog post done on the above bloo
 
 ## 📋 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Floating Point Operations | Shell Scripting](https://dev.to/rahulmishra05/floating-point-operations-shell-scripting-4hk0)
+- [Arithmetic Operations | Shell Scripting](https://dev.to/rahulmishra05/arithmetic-operations-shell-scripting-340j)
 - [Resource Allocation Graph in Deadlock | Operating System - M04 P02](https://dev.to/rahulmishra05/resource-allocation-graph-in-deadlock-operating-system-m04-p02-568p)
 - [Deadlock | Operating System - M04 P01](https://dev.to/rahulmishra05/deadlock-operating-system-m04-p01-5c92)
 - [Logical 'OR' Operator | Shell Scripting](https://dev.to/rahulmishra05/logical-or-operator-shell-scripting-57gm)
-- [Dining Philosopher Problem | Operating System - M03 P08](https://dev.to/rahulmishra05/dining-philosopher-problem-operating-system-m03-p08-fa5)
-- [Question on Binary Semaphore | Operating System - M03 P07](https://dev.to/rahulmishra05/question-on-binary-semaphore-operating-system-m03-p07-3alp)
 <!-- BLOG-POST-LIST:END -->
 
