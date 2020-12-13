@@ -15,10 +15,10 @@ This repository is dedicated for the details of blog post done on the above bloo
 
 ## 📋 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Question on Deadlock | Operating System - M04 P07](https://dev.to/rahulmishra05/question-on-deadlock-operating-system-m04-p07-37hh)
 - [While Loop | Shell Scripting](https://dev.to/rahulmishra05/while-loop-shell-scripting-5f9a)
 - [Array variable | Shell Scripting](https://dev.to/rahulmishra05/array-variable-shell-scripting-56c3)
 - [Banker's Algorithm Question | Operating System - M04 P06](https://dev.to/rahulmishra05/banker-s-algorithm-question-operating-system-m04-p06-3lgj)
 - [Case Statement Example | Shell Scripting](https://dev.to/rahulmishra05/case-statement-example-shell-scripting-2gmd)
-- [Case Statement | Shell Scripting](https://dev.to/rahulmishra05/case-statement-shell-scripting-2o2a)
 <!-- BLOG-POST-LIST:END -->
 
