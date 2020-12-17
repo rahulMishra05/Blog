@@ -15,10 +15,10 @@ This repository is dedicated for the details of blog post done on the above bloo
 
 ## 📋 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Select Loop | Shell Scripting](https://dev.to/rahulmishra05/select-loop-shell-scripting-3lme)
+- [For Loop to Execute Commands | Shell Scripting](https://dev.to/rahulmishra05/for-loop-to-execute-commands-shell-scripting-1kak)
 - [Memory Management Techniques | Operating System - M05 P02](https://dev.to/rahulmishra05/memory-management-techniques-operating-system-m05-p02-2ei1)
 - [Memory Management and Degree of Multiprogramming | Operating System - M05 P01](https://dev.to/rahulmishra05/memory-management-and-degree-of-multiprogramming-operating-system-m05-p01-4fhp)
 - [For Loop | Shell Scripting](https://dev.to/rahulmishra05/for-loop-shell-scripting-564f)
-- [Until Loop | Shell Scripting](https://dev.to/rahulmishra05/until-loop-shell-scripting-4b8o)
-- [Question on Deadlock | Operating System - M04 P08](https://dev.to/rahulmishra05/question-on-deadlock-operating-system-m04-p08-353n)
 <!-- BLOG-POST-LIST:END -->
 
