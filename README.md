@@ -15,10 +15,10 @@ This repository is dedicated for the details of blog post done on the above bloo
 
 ## 📋 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [File Encrypter and Decrypter](https://dev.to/rahulmishra05/file-encrypter-and-decrypter-10mo)
 - [Thrashing | Operating System - M05 P16](https://dev.to/rahulmishra05/thrashing-operating-system-m05-p16-463a)
 - [Question on Inverted Paging | Operating System - M05 P15](https://dev.to/rahulmishra05/question-on-inverted-paging-operating-system-m05-p15-4pii)
 - [Inverted Paging | Operating System - M05 P14](https://dev.to/rahulmishra05/inverted-paging-operating-system-m05-p14-2nd7)
 - [2-Level Paging | Operating System - M05 P13](https://dev.to/rahulmishra05/2-level-paging-operating-system-m05-p13-3f0n)
-- [Page Table Entry | Operating System - M05 P12](https://dev.to/rahulmishra05/page-table-entry-operating-system-m05-p12-5hi0)
 <!-- BLOG-POST-LIST:END -->
 
