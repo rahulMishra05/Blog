@@ -15,10 +15,10 @@ This repository is dedicated for the details of blog post done on the above bloo
 
 ## 📋 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Amass: A Beginner's Guide For Reconnaissance](https://dev.to/rahulmishra05/amass-a-beginner-s-guide-for-reconnaissance-4a0p)
 - [CSRF & SSRF](https://dev.to/rahulmishra05/csrf-ssrf-2enp)
 - [File Encrypter and Decrypter](https://dev.to/rahulmishra05/file-encrypter-and-decrypter-10mo)
 - [Thrashing | Operating System - M05 P16](https://dev.to/rahulmishra05/thrashing-operating-system-m05-p16-463a)
 - [Question on Inverted Paging | Operating System - M05 P15](https://dev.to/rahulmishra05/question-on-inverted-paging-operating-system-m05-p15-4pii)
-- [Inverted Paging | Operating System - M05 P14](https://dev.to/rahulmishra05/inverted-paging-operating-system-m05-p14-2nd7)
 <!-- BLOG-POST-LIST:END -->
 
